@@ -14,6 +14,8 @@ Thumbs.db
 
 # Go binary
 url-shortener
+backend/url-shortener
 
 # SQLite DB
 *.db
+backend/*.db
